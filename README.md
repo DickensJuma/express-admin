@@ -92,7 +92,7 @@ Role table design:
 ```
 ## Authors
 
-* **Tuan Nguyen Minh** - *Financer and Developer* - email: ntuan221@gmail.com
+* **DickensJuma** - *Web Developer* - email: dickensjuma13@gmail.com
 
 ## License
 
