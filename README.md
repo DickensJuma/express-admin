@@ -17,7 +17,7 @@ I hope it can help you. Leave a github star if you like it.
 You can download Express-Admin by directly download from github. Or you can use git command to clone it:
 
 ```
-git clone https://github.com/minhtuan221/express-admin.git
+git clone https://github.com/DickensJuma/express-admin.git
 ```
 Start project by 
 
@@ -100,7 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 MIT License
 
-Copyright (c) 2018 Minh Tuan
+Copyright (c) 2019 Dickens Juma
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
