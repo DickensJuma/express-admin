@@ -4,7 +4,7 @@
   "description": "Express admin for fun and jobs. For contact: ntuan221@gmail.com",
   "main": "index.js",
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.15.1",
     "connect-ensure-login": "^0.1.1",
     "cookie-parser": "^1.4.3",
